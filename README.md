@@ -80,9 +80,9 @@ pip install pandas matplotlib textblob
 
 ## 👨‍💻 Author
 
-**Manik Chand Singh**  
-_Cybersecurity & Data Science Enthusiast_  
-🔗 [LinkedIn Profile](#) (add your profile link)
+**Vinay Kumar**  
+_Artificial Intelligence & Data Science Enthusiast_  
+
 
 ---
 
